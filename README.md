@@ -47,7 +47,7 @@ The 48V input is provided through a connector rated for 48V / 25A max.
 | U2 | LM5161PWPT | 48V → 12V buck converter |
 | U3 | AMS1117-3.3 | 12V → 3.3V LDO |
 | Q1–Q6 | CSD18536KCS | N-channel power MOSFETs |
-| R16–R18 | WSLP2512L5000FEA | 5 mΩ current sense shunts |
+| R16–R18 | WSLP2512L5000FEA | 0.5 mΩ current sense shunts |
 | D1 | SS24S-E3/61T | Schottky diode |
 | L1 | DR125-101-R | Buck converter inductor |
 
